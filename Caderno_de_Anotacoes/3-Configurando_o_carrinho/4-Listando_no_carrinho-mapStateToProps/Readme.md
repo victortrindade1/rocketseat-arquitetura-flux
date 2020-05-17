@@ -1,5 +1,7 @@
 # Listando no carrinho
 
+> Aqui vamos usar o mapStateToProps. Mas, qnd usarmos os hooks, isso vai acabar, e iremos usar o useSelector().
+
 ## src/pages/Cart/index.js
 
 ```diff
